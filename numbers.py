@@ -38,4 +38,14 @@ print(math.sqrt(100))
 #value of pi
 print(math.pi)
 
+# random value
+print(random.randrange(0,5))
+
+#random from data structure
+tup1 = [1,89,-4,'hello']
+print(random.choice(tup1))
+
+# return float value
+print(random.uniform(0,4))
+
 
